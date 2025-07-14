@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.analysis.extraPaths": ["./"],  // optional: helps VSCode resolve local imports
+  "python.analysis.indexing": true
+}
